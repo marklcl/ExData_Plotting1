@@ -1,3 +1,6 @@
+To use the plot R scripts, please download the data <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb] into the same working directory as the scripts. Thanks! 
+
+
 ## Introduction
 
 This assignment uses data from
